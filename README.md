@@ -27,11 +27,11 @@ Visualizes house values by location, highlighting high-value coastal areas.
 
 ### Predicted vs. Actual House Values
 ![Predicted vs. Actual](images/predicted_vs_actual.png)
-Compares KNN predictions to actual values; points near the red line indicate accurate predictions.
+Compares KNN predictions to actual values.
 
 ### Prediction Error Distribution
 ![Error Distribution](images/error_distribution.png)
-Shows the distribution of prediction errors; errors centered around 0 indicate unbiased predictions.
+Shows the distribution of prediction errors.
 
 ## Results
 - **Baseline KNN** (*k*=5): Test RMSE 0.6274, R² 0.6996.
