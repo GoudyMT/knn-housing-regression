@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.pyo
+*.pyd
+# Jupyter
+.ipynb_checkpoints/
+# Data
+data/*.csv
+data/*.json
+# Large files
+*.zip
+*.tar.gz
+# Virtual environments
+venv/
+env/
+# System files
+.DS_Store
+Thumbs.db
